@@ -1,0 +1,4 @@
+vendor/downloads
+vendor/Postman
+vendor/sts-*
+.metadata
